@@ -14,9 +14,9 @@ when I'm not coding, I'm probably:
 
 - 🎧 listening to music
 - 🎮 playing games
-- 💻 messing around with code
-- 🌐 working on some random project
-- 💤 staying up way later than I should
+- 🗼 going outside and exploring
+- 💻 working on some random project
+- 🤿 swimming
 
 ---
 
