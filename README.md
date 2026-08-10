@@ -45,7 +45,10 @@ const xanzdev = {
     hobbies: [
         "Music",
         "Gaming",
-        "Coding"
+        "Coding",
+        "Swimming",
+        "Soccer",
+        "Track"
     ],
     currently: "building hush, a discord management bot and biolink."
 
