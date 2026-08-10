@@ -40,12 +40,12 @@ const xanzdev = {
         "Web Development",
         "Game Development",
         "Backend Development",
-        "Cybersecurity".
+        "Cybersecurity"
     ],
     hobbies: [
         "Music",
         "Gaming",
         "Coding"
     ],
-    currently: "building hush.."
+    currently: "building hush, a discord management bot and biolink."
 };
