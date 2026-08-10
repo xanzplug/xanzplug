@@ -8,7 +8,7 @@
 
 15 year old living in Canada, just doing my thing. I spend a lot of my time listening to music, playing games, and building random things on the internet.
 
-I'm a self-taught programmer who enjoys experimenting with different technologies and turning random ideas into actual projects.
+I'm a self-taught programmer who enjoys experimenting with different stuff and turning random ideas into actual projects or sometimes failed projects.
 
 when I'm not coding, I'm probably:
 
