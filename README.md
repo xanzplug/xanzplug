@@ -51,5 +51,5 @@ const xanzdev = {
 
      ],
     contact: "Best way to contact me is through Discord — @xanzdev",
-    status: "building something..."
+    latest message from xanz: "have an amaziing day thank you - August 9th, 2026 10:41PM"
 };
