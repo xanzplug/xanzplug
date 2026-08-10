@@ -48,4 +48,8 @@ const xanzdev = {
         "Coding"
     ],
     currently: "building hush, a discord management bot and biolink."
+
+     ],
+    contact: "Best way to contact me is through Discord — @xanzdev",
+    status: "building something..."
 };
