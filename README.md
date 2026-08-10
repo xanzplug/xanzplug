@@ -39,8 +39,8 @@ const xanzdev = {
     interests: [
         "Web Development",
         "Game Development",
-        "Backend Development"
-        "Cybersecurity"
+        "Backend Development",
+        "Cybersecurity".
     ],
     hobbies: [
         "Music",
