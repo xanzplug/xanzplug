@@ -26,7 +26,7 @@ when I'm not coding, I'm probably:
 |---|---|---|
 | personal site | my little corner of the internet | 🏖️ Active |
 | hush discord management bot | working on it, not done yet | 🏄 In Progress |
-| brewmecoffee.tools | a website with tools for devs (whitelist) | 🏖️ Active |
+| brewmecoffee.tools | a website with tools for developers (whitelist only for now) | 🏖️ Active |
 
 ---
 
