@@ -42,13 +42,12 @@ const xanzdev = {
         "Backend Development",
         "Cybersecurity"
     ],
-    hobbies: [
-        "Music",
-        "Gaming",
-        "Coding",
-        "Swimming",
-        "Soccer",
-        "Track"
+    social media: [
+        "[Instagram](https://www.instagram.com/xanzdev/?hl=en)",
+        "[TikTok](https://www.tiktok.com/@xanzdev)",
+        "[YouTube](https://www.youtube.com/@XanzzRobloxx)",
+        "[Discord](https://discord.gg/s4WueW24EH)"
+
     ],
     currently: "building hush, a discord management bot and biolink."
 
