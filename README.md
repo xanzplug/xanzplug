@@ -8,13 +8,13 @@
 
 15 year old living in Canada, just doing my thing. I enjoy listening to music, playing games, and building things on the internet.
 
-I'm a self-taught programmer who likes experimenting with different technologies and making random projects that probably didn't need to exist.
+I'm a self-taught programmer who likes experimenting with different stuff and making random projects that probably didn't need to exist.
 
 When I'm not coding, I'm probably:
 
 - 🎧 Listening to music
 - 🎮 Playing games
-- 💻 Messing around with code
+- 🏄 Going outside and having fun
 - 🌐 Building something on the internet
 - 💤 Wondering why I stayed up so late
 
