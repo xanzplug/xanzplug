@@ -24,9 +24,9 @@ when I'm not coding, I'm probably:
 
 | Project | What it is | Status |
 |---|---|---|
-| Personal Site | My little corner of the internet | 🛠️ Working on it |
-| Secret Project | Something I can't talk about... yet | 🔒 Secret |
-| Random Stuff | Whatever idea I decide to build | 🟢 Active |
+| personal site | my little corner of the internet | 🏖️ Active |
+| hush discord management bot | working on it, not done yet | 🏄 In Progress |
+| venture | shows what your working on in unity directly in your discord status | ⛵️ Discontinued |
 
 ---
 
@@ -35,16 +35,17 @@ when I'm not coding, I'm probably:
 ```js
 const xanzdev = {
     languages: ["JavaScript", "Python", "Lua", "HTML", "CSS"],
-    learning: ["GDScript"],
+    learning: ["Zig"],
     interests: [
         "Web Development",
         "Game Development",
-        "Discord Bots"
+        "Backend Development"
+        "Cybersecurity"
     ],
     hobbies: [
         "Music",
         "Gaming",
         "Coding"
     ],
-    currently: "building something..."
+    currently: "building hush.."
 };
