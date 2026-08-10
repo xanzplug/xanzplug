@@ -26,7 +26,8 @@ when I'm not coding, I'm probably:
 |---|---|---|
 | personal site | my little corner of the internet | 🏖️ Active |
 | hush discord management bot | working on it, not done yet | 🏄 In Progress |
-| venture | shows what your working on in unity directly in your discord status | ⛵️ Discontinued |
+| venture | shows what your working on in unity directly in your discord status | 🏄 In Progress |
+| brewmecoffee.tools | a website that has tools that support developers (whitelist only)  | 🏖️ Active |
 
 ---
 
