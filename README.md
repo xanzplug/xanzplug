@@ -42,7 +42,7 @@ const xanzdev = {
         "Backend Development",
         "Cybersecurity"
     ],
-    social media: [
+    socials: [
         "Instagram: https://www.instagram.com/xanzdev/?hl=en",
         "TikTok: https://www.tiktok.com/@xanzdev",
         "YouTube: https://www.youtube.com/@XanzzRobloxx",
@@ -52,6 +52,5 @@ const xanzdev = {
     currently: "building hush, a discord management bot and biolink."
 
      ],
-    contact: "Best way to contact me is through Discord — @xanzdev",
-    latest message from xanz: "hi i like cats - August 9th, 2026 10:44PM"
+    contact: "Best way to contact me is through Discord — @xanzdev"
 };
