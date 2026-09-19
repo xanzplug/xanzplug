@@ -1,56 +1,27 @@
-# hey, I'm xanzdev 👋
+<div align="center">
 
-> music addict · self-taught programmer · always building something
+# xanzdev
 
----
+**developer · builder · cybersecurity**
 
-## about me
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xanzdev)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xanzdev.github.io)
 
-15 year old living in Canada, just doing my thing. I spend a lot of my time listening to music, playing games, and building random things on the internet.
-
-I'm a self-taught programmer who enjoys experimenting with different stuff and turning random ideas into actual projects or sometimes failed projects.
-
-when I'm not coding, I'm probably:
-
-- 🎧 listening to music
-- 🎮 playing games
-- 🗼 going outside and exploring
-- 💻 working on some random project
-- 🤿 swimming
+</div>
 
 ---
 
-## what I'm building
+<div align="center">
 
-| Project | What it is | Status |
-|---|---|---|
-| personal site | my little corner of the internet | 🏖️ Active |
-| hush discord management bot | working on it, not done yet | 🏄 In Progress |
-| brewmecoffee.tools | a website with tools for developers (whitelist only for now) | 🏖️ Active |
+> building things that probably shouldn't exist.
 
----
+</div>
 
-## tech I use
+## about
 
-```js
-const xanzdev = {
-    languages: ["JavaScript", "Python", "Lua", "HTML", "CSS"],
-    learning: ["Zig"],
-    interests: [
-        "Web Development",
-        "Game Development",
-        "Backend Development",
-        "Cybersecurity"
-    ],
-    socials: [
-        "Instagram: https://www.instagram.com/xanzdev/?hl=en",
-        "TikTok: https://www.tiktok.com/@xanzdev",
-        "YouTube: https://www.youtube.com/@XanzzRobloxx",
-        "Discord Server: https://discord.gg/s4WueW24EH"
-
-    ],
-    currently: "building hush, a discord management bot and biolink."
-
-     ],
-    contact: "Best way to contact me is through Discord — @xanzdev"
-};
+```txt
+name       xanz
+username   xanzdev
+focus      web · backend · discord · cybersecurity
+learning   zig
