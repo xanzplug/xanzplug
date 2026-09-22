@@ -14,14 +14,14 @@
 
 <div align="center">
 
-> building things that probably shouldn't exist.
+> learning many things everyday
 
 </div>
 
 ## about
 
 ```txt
-name       xanz
+var       xanz
 username   xanzdev
 focus      web · backend · discord · cybersecurity
 learning   zig
