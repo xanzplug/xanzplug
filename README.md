@@ -1,6 +1,6 @@
 <div align="center">
 
-# xanzdev
+# xanzdev (griefweb)
 
 **developer · builder · cybersecurity**
 
@@ -21,7 +21,7 @@
 ## about
 
 ```txt
-var       xanz
-username   xanzdev
+name       xanz
+next job   photography
 focus      web · backend · discord · cybersecurity
 learning   zig
