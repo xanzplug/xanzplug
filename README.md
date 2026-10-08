@@ -5,7 +5,6 @@
 **developer · builder · cybersecurity**
 
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/718601997225426998)
-[![CodeTime](https://shields.jannchie.com/endpoint?style=for-the-badge&color=000&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3DYOUR_UID)](https://codetime.dev)
 
 > learning many things everyday
 
