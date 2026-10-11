@@ -10,7 +10,7 @@
 
 <img src="assets/section-projects.svg" width="100%" alt="PROJECTS">
 <p>
-  <a href="https://discord.com/oauth2/authorize?client_id=1543491783814545418&permissions=8&integration_type=0&scope=bot"><img src="assets/project-federate.svg" width="49%" alt="Federate: my discord bot (add to discord)"></a>
+  <a href="https://discord.com/oauth2/authorize?client_id=1543491783814545418&permissions=564325889993942&integration_type=0&scope=bot+applications.commands"><img src="assets/project-federate.svg" width="49%" alt="Federate: my discord bot (add to discord)"></a>
   <a href="https://github.com/xanzplug/wrap"><img src="assets/project-wrap.svg" width="49%" alt="Wrap: mac app for creators"></a>
 </p>
 
