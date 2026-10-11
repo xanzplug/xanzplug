@@ -1,38 +1,31 @@
-<div align="center">
+<!-- profile README for github.com/xanzplug — assets live in /assets -->
 
-# xanzdev (griefweb)
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="xanz — developer · builder · cybersecurity. web, backend & discord stuff. learning zig.">
+</p>
 
-**developer · builder · cybersecurity**
+<img src="assets/section-tools.svg" width="100%" alt="DAILY TOOLS">
+<img src="assets/tools.svg" width="100%" alt="Node.js, JavaScript, TypeScript, discord.js, Zig, Swift, Supabase, Cloudflare, Linux">
 
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/718601997225426998)
+<img src="assets/section-now.svg" width="100%" alt="RIGHT NOW">
+<img src="assets/now.svg" width="100%" alt="building Wrap · learning zig · next: photography">
 
-> learning many things everyday
+<img src="assets/section-projects.svg" width="100%" alt="PROJECTS">
+<p>
+  <!-- TODO: point this at the Federate repo -->
+  <a href="https://github.com/xanzplug?tab=repositories"><img src="assets/project-federate.svg" width="49%" alt="Federate — a self-hosted discord moderation & utility bot"></a>
+  <a href="https://github.com/xanzplug/wrap"><img src="assets/project-wrap.svg" width="49%" alt="Wrap — a mac app for creators"></a>
+</p>
 
-</div>
+<img src="assets/section-links.svg" width="100%" alt="FIND ME">
+<p>
+  <a href="https://discord.com/users/718601997225426998"><img src="assets/link-discord.svg" width="32%" alt="discord"></a>
+  <a href="https://github.com/xanzplug?tab=repositories"><img src="assets/link-github.svg" width="32%" alt="github"></a>
+  <a href="https://getwrap.pages.dev"><img src="assets/link-wrap.svg" width="32%" alt="getwrap.pages.dev"></a>
+</p>
 
----
-
-hi 👋 i'm **xanz**, a developer who builds web backends, discord bots and self-hosted tools, with a growing interest in cybersecurity.
-
-## about
-
-```txt
-name       xanz
-focus      web · backend · discord · cybersecurity
-learning   zig
-```
-
-## projects
-
-- **[Wrap](https://github.com/xanzplug/wrap)** — a mac app for creators: shot lists, workspace launching & client file delivery in one place · *swift · supabase*
-
-## stack
-
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-000000?style=flat-square&logo=zig&logoColor=white)
-
-## contact
-
-- discord: `@griefweb`
+<p align="center">
+  <a href="https://github.com/xanzplug/xanzplug/issues/new?title=%E2%9C%8E%20guestbook&body=hi%20xanz!%20"><img src="assets/link-guestbook.svg" width="40%" alt="sign the guestbook"></a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=xanzplug&label=visitor&color=1d1630&style=flat-square" alt="visitor count">
+</p>
