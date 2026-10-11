@@ -1,4 +1,3 @@
-<!-- profile README for github.com/xanzplug — assets live in /assets -->
 
 <p align="center">
   <img src="assets/header.svg" width="100%" alt="xanz — developer · builder · cybersecurity. web, backend & discord stuff. learning zig.">
