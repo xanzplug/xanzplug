@@ -20,9 +20,3 @@
   <a href="https://discord.gg/EMgyRjfaAH"><img src="assets/link-server.svg" width="32%" alt="federate server"></a>
   <a href="https://getwrap.pages.dev"><img src="assets/link-wrap.svg" width="32%" alt="getwrap.pages.dev"></a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/xanzplug/xanzplug/issues/new?title=hi&body="><img src="assets/link-guestbook.svg" width="40%" alt="leave a message"></a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=xanzplug&label=visitor&color=1d1630&style=flat-square" alt="visitor count">
-</p>
