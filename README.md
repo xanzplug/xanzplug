@@ -7,11 +7,11 @@
 <img src="assets/tools.svg" width="100%" alt="Node.js, JavaScript, TypeScript, discord.js, Zig, Swift, Supabase, Cloudflare, Linux">
 
 <img src="assets/section-now.svg" width="100%" alt="RIGHT NOW">
-<img src="assets/now.svg" width="100%" alt="building Wrap · learning zig · next: photography">
+<img src="assets/now.svg" width="100%" alt="building Wrap · learning zig · next: cybersecurity">
 
 <img src="assets/section-projects.svg" width="100%" alt="PROJECTS">
 <p>
-  <!-- TODO: point this at the Federate repo -->
+  
   <a href="https://github.com/xanzplug?tab=repositories"><img src="assets/project-federate.svg" width="49%" alt="Federate — a self-hosted discord moderation & utility bot"></a>
   <a href="https://github.com/xanzplug/wrap"><img src="assets/project-wrap.svg" width="49%" alt="Wrap — a mac app for creators"></a>
 </p>
@@ -26,5 +26,4 @@
 <p align="center">
   <a href="https://github.com/xanzplug/xanzplug/issues/new?title=%E2%9C%8E%20guestbook&body=hi%20xanz!%20"><img src="assets/link-guestbook.svg" width="40%" alt="sign the guestbook"></a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=xanzplug&label=visitor&color=1d1630&style=flat-square" alt="visitor count">
-</p>
+  
